@@ -1,0 +1,3 @@
+Java file input and output streams.
+   This line contains multiple   spaces between words.
+The end.
